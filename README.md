@@ -3,7 +3,7 @@
 
 Just a joke didn't know it exists dont click it. ---  TINTIN!!! NO STEALING STICKERS UNLESS WITH FRIENDS PERMISSION, VULGARITY IS  ALLOWED. PLS READ ONLY TINTIN!!! Licensed. 
 
-#Release Alpha 0.0.6
+# Release Alpha 0.0.6
 
 # Rules
 No Stealing stickers; Vulgarity is ALLOWED; SUS is ALLOWED; Admin APPROVAL needed to join the group; Secure under Whatsapp End-to-End encryption
