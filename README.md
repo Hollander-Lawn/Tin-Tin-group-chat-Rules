@@ -20,3 +20,16 @@ Programming Languages Allowed: C++ , Java , C# , C , Python ,
 Programming Engines allowed: Pygame , Swing , LWJGL , Unreal Engine 
 Bragging is allowed;
 Only Admin Approved members can join
+
+# Release Alpha 0.1.1 
+
+# Rules
+No Stealing stickers; Vulgarity is ALLOWED; SUS is ALLOWED; Admin APPROVAL needed to join the group; Secure under Whatsapp End-to-End encryption
+Stealing stickers is punishable; Fine up to $9999; 
+Programming Languages Allowed: C++ , Java , C# , C , Python , 
+Programming Engines allowed: Pygame , Swing , LWJGL , Unreal Engine 
+Bragging is allowed;
+Only Admin Approved members can join
+Non-admins are in Soectator mode
+No suspicious ir stickers that pormote sexual abuse. 
+Sexual abuse is BANABLE
